@@ -1,0 +1,10 @@
+# No trim
+1. aaaaaaaaaaaaaaaaa                   aaaaaaaaaaa
+2. bbb
+                                3. cccccccc
+
+# Trim
+1.                                                                              
+
+3.
+4.                trim                                                          
